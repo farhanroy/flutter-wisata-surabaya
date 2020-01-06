@@ -9,8 +9,7 @@ jdk: oraclejdk8
 # We set language to Node.js (JavaScript) for the sake
 # of making creating utility scripts later on easier.
 language: dart
-node_js:
-  - "12"
+
 
 env:
   global:
