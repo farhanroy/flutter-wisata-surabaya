@@ -1,4 +1,4 @@
-# 👋 Wisata Surabaya
+# 👋 Wisata Surabaya [![Codemagic build status](https://api.codemagic.io/apps/5e12b9933b897277f650a3f6/5e12b9933b897277f650a3f5/status_badge.svg)](https://codemagic.io/apps/5e12b9933b897277f650a3f6/5e12b9933b897277f650a3f5/latest_build)
 
 Sebuah aplikasi berbasis android yang menggunakan flutter sebagai tool untuk pengembangannya. Aplikasi ini berisi review dan detail dari berberapa wisata di surabaya. Dan juga aplikasi ini terintegrasi dengan Map, jadi user dapat dengan mudah menemukan dimana tempat wisata tersebut.
 
