@@ -18,12 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 ## ✨ Demo
 <table>
   <tr>
-    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/screenshots/Screenshot_1578178874.png" width="300" height="600"/></td>
-    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/screenshots/Screenshot_1578178857.png" width="300" height="600"/></td>
+    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/WisataSurabaya/screenshots/Screenshot_1578178874.png" width="300" height="600"/></td>
+    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/WisataSurabaya/screenshots/Screenshot_1578178857.png" width="300" height="600"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/screenshots/Screenshot_1578178366.png" width="300" height="600"/></td>
-    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/screenshots/Screenshot_1578178428.png" width="300" height="600"/></td>
+    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/WisataSurabaya/screenshots/Screenshot_1578178366.png" width="300" height="600"/></td>
+    <td><img src="https://github.com/roy1441/WisataSurabaya/blob/master/WisataSurabaya/screenshots/Screenshot_1578178428.png" width="300" height="600"/></td>
   </tr>
 </table>
 
